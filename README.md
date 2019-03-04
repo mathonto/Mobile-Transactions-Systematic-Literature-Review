@@ -1,4 +1,4 @@
-# Mobile-Transactions-Systematic-Literature-Review
+# Mobile Transactions: Systematic-Literature-Review
 This repository contains all information and data generated and used within our ([@awersching](https://www.github.com/awersching), [@matejetz](https://www.github.com/matejetz), [@mathonto](https://www.github.com/mathonto)) systematic literature review on mobile transactions.
 
 *Preparation* folder contains our keywords, research questions and queries for our systematic literature review.
