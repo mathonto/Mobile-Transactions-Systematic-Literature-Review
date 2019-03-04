@@ -1,0 +1,4 @@
+GoogleScholar.crawl_until_page = 10
+GoogleScholar.timeout = 5
+
+Springer.timeout = 0

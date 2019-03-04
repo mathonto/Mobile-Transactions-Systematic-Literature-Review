@@ -1,0 +1,24 @@
+Mobile transactions AND IoT
+Mobile transactions AND Embedded
+Mobile transactions AND (BASE OR ACID)
+Mobile transaction protocols
+Mobile transaction models
+Mobile transactions AND CAP theorem
+Mobile transactions AND consistency
+Mobile transactions AND compensation
+Mobile transactions AND (atomicity OR consistency OR isolation OR durability)
+Disconnection handling AND mobility
+Disconnection handling AND mobile transactions
+Resilient connectivity AND mobility
+Resilient connectivity AND mobile transactions
+Disconnection management AND (mobile environments OR mobile systems OR mobile transactions)
+compensation AND (mobile environments OR mobile systems OR mobile transactions)
+Movement management AND transactions
+Embedded systems AND disconnection AND (management OR handling)
+wireless data networks AND disconnection AND (management OR handling)
+Embedded systems AND mobile transactions
+portable device* AND transaction* AND mobile
+mobile AND cloud computing AND transactions
+seamless connectivity AND mobile
+mobile transaction AND execution
+movement AND compensation AND (IoT OR Embedded OR mobile)
